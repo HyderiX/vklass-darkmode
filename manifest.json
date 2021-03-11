@@ -1,0 +1,12 @@
+{
+    "name":"Vklass dark mode",
+    "manifest_version":2,
+    "version":"0.0.1",
+    "author":"Eric Thorburn",
+    "content_scripts": [
+        {
+            "css":["styles.css"],
+            "matches":["*://vklass.se/*"]
+        }
+    ]
+}

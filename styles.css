@@ -1,0 +1,27 @@
+html {
+  color:white !important;
+  border:none !important;
+}
+body {
+  margin:0 !important;
+}
+div {
+  background-color:black !important;
+}
+.newsPost {
+  border-radius: 2px;
+  border-left: 3px solid yellow;
+  border-right:none;
+  border-bottom:none;
+  border-top:none;
+  background-color: rgb(97, 93, 62) !important;
+}
+a {
+  color: white !important;
+}
+.start-left {
+  border-right: none;
+}
+.lessonsTodayList li {
+  background-color: rgb(52, 52, 52);
+}
